@@ -1,4 +1,5 @@
 ![avatar](/capture.png)
 
-—
-[Anroid屏幕适配全攻略](https://www.jianshu.com/writer#/notebooks/5317459/notes/13411633)
+—-
+
+>> [Anroid屏幕适配全攻略](https://www.jianshu.com/p/759375113de9https://www.jianshu.com/p/759375113de9)
