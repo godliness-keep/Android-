@@ -1,1 +1,1 @@
-![avatar](picture/1.png)
+![avatar](/capture.png)
